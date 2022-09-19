@@ -4,5 +4,6 @@ Features
 * Movie Description with ratings
 * Search by name
 * Filter by Genre
+* Trailers from YouTube
 
 ![MovieWebsite](Screenshot.JPG)
